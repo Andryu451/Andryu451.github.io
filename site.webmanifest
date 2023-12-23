@@ -2,6 +2,7 @@
     "name": "RSO NEW",
     "short_name": "RSO",
     "description": "RSO new redactions",
+    "orientation": "any",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
