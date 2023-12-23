@@ -33,5 +33,10 @@
     "background_color": "#ffffff",
     "start_url": "https://Andryu451.github.io/",
     "display": "standalone",
-    "id": "rso"
+    "id": "rso",
+  "categories": [
+    "kids",
+    "politics",
+    "social"
+  ]
 }
