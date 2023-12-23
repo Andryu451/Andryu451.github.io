@@ -3,6 +3,7 @@
     "short_name": "RSO",
     "description": "RSO new redactions",
     "orientation": "any",
+    "scope": "https://Andryu451.github.io",
     "screenshots": [
         {
             "src": "/android-chrome-512x512.png",
