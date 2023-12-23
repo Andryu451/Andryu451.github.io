@@ -1,6 +1,7 @@
 {
     "name": "RSO NEW",
     "short_name": "RSO",
+    "description": "RSO new redactions",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -17,5 +18,6 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "start_url": "https://Andryu451.github.io/",
-    "display": "standalone"
+    "display": "standalone",
+    "id": "rso"
 }
