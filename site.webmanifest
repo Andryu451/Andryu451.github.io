@@ -4,6 +4,9 @@
     "description": "RSO new redactions",
     "orientation": "any",
     "scope": "https://Andryu451.github.io",
+"scope_extensions": [
+    {"origin": "*.Andryu451.github.io"},
+  ],
     "screenshots": [
         {
             "src": "/android-chrome-512x512.png",
