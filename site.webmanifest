@@ -3,6 +3,10 @@
     "short_name": "RSO",
     "description": "RSO new redactions",
     "orientation": "any",
+    "launch_handler": 
+        {
+            "client_mode": ["navigate-existing", "auto"]
+        }
     "icons": [
         {
             "src": "android-chrome-192x192.png",
