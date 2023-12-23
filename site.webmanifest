@@ -34,9 +34,10 @@
     "start_url": "https://Andryu451.github.io/",
     "display": "standalone",
     "id": "rso",
-  "categories": [
-    "kids",
-    "politics",
-    "social"
+    "dir": "ltr",
+    "categories": [
+      "kids",
+      "politics",
+      "social"
   ]
 }
