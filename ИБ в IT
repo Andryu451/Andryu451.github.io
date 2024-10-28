@@ -161,3 +161,11 @@ print(s.lower())
 print(s)
 # Hello!
 
+print(s.isdigit()) # строка состоит из цифр?
+# False
+
+print(s.isalpha()) # строка состоит из букв?
+# False
+print(s.isalnum()) # строка состоит из цифр и букв?
+# False
+
