@@ -169,3 +169,7 @@ print(s.isalpha()) # строка состоит из букв?
 print(s.isalnum()) # строка состоит из цифр и букв?
 # False
 
+colors = 'red blue green'
+
+print(colors.split())
+# ['red', 'blue', 'green']
